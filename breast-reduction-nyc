@@ -315,18 +315,18 @@ Dr. Sharon Giese, MD is an internationally recognized board certified <strong st
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="images2020/before after/img1.jpg" style="width:100%" loading="lazy">
-    <div class="text">Caption Text</div>
+    <img src="images2020/before after/breast_reduction1.jpg" style="width:100%" loading="lazy">
+    <div class="text">Patient 1</div>
   </div>
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="images2020/before after/img2.jpg" style="width:100%" loading="lazy">
-    <div class="text">Caption Two</div>
+    <img src="images2020/before after/breast_reduction2.jpg" style="width:100%" loading="lazy">
+    <div class="text">Patient 2</div>
   </div>
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="images2020/before after/img3.jpg" style="width:100%" loading="lazy">
-    <div class="text">Caption Three</div>
+    <img src="images2020/before after/breast_reduction3.jpg" style="width:100%" loading="lazy">
+    <div class="text">Patient 3</div>
   </div>
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -424,7 +424,7 @@ els[i].classList[fnName](className);
 <h3 itemprop="name">Frequently Asked Questions</h3>
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-<div class="accordion"><span itemprop="name">WHAT TO EXPECT IN A MAMMOPLASTY SURGERY?</span></div>
+<div class="accordion"><span itemprop="name">WHAT TO EXPECT IN A REDUCTION MAMMOPLASTY SURGERY?</span></div>
 <div class="panel" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"><span itemprop="text">The procedure usually takes about 2 to 3 hours. Although there are many techniques available for breast reduction, the most common procedure uses an anchor-shaped incision around the areola, that follows the natural curve of the breast. Along the incision, the doctor will remove fat, skin, and glandular tissue. Then move the nipple and areola to their new positions, likely in a higher point. Lastly, the skin is brought down from both sides of the breast and around the areola, shaping the new curve of the breast.<br>
 The sutures in this procedure will dissolve under the skin and do not need removing. If you have good skin, the horizontal part of the scar can be avoided with a vertical scar breast reduction pattern. 
 </span>
